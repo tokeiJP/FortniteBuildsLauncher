@@ -1,0 +1,2 @@
+# FortniteBuildsLauncher
+Fortnite Builds archive.
