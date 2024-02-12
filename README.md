@@ -1,2 +1,4 @@
 # FortniteBuildsLauncher
-Fortnite Builds archive.
+Currently under development...
+
+## detail:https://discord.gg/r8ndaUzjyV ##
